@@ -7,11 +7,7 @@
 I wrote this script for myself. I'm not responsible, if you damage something using my script.
 
 
-## Supporting/Sponsoring this project
 
-You like the project and you want to support me?
-
-[<img src="https://github.md0.eu/uploads/donate-button.svg" height="50">](https://www.paypal.com/donate/?hosted_button_id=3NEVZBDM5KABW)
 
 
 ### Purpose
